@@ -3,27 +3,33 @@ body{
     margin: 0;
     padding: 0;
 }
+
 .menu ul{
     background-color: #CCC;
     margin: 0;
     padding: 2em;
 }
+
 .menu li{
     display: inline;
     padding: 0 1em 0 0;
 }
+
 .menu li a{
     text-decoration: none;
     color: black;
     font-weight: bold;
 }
+
 header, section, footer{
     padding: 0 2em;
 }
+
 #imagem-perfil{
     width: 100%;
     max-width: 600px;
 }
+
 .button{
     background-color: blue;
     color: white;
